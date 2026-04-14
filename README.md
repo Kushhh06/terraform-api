@@ -34,7 +34,6 @@ Client → API Gateway → AWS Lambda → DynamoDB
 terraform-api/
 │── main.tf
 │── outputs.tf
-│── variables.tf
 │── lambda/
 │     └── lambda_function.py
 │── README.md
